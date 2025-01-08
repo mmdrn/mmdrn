@@ -12,4 +12,4 @@ Hi, I'm **Mohammad**, a passionate software engineer with expertise in frontend 
 - Machine Learning
 - Algorithm Trading
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmdrn&show_icons=true&theme=radical)
