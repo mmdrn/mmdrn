@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🌟 Welcome to My GitHub!
+Hi, I'm **Mohammad**, a passionate software engineer with expertise in frontend and backend development.
 
-<!--
-**mmdrn/mmdrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 My Skills
+- **Frontend**: React, Next.js, Tailwind CSS
+- **Backend**: Node.js, Express, Redis
+- **Other Tools**: Docker, Kubernetes, Git
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- [Project A](https://github.com/username/project-a): An innovative solution for managing tasks.
+- [Project B](https://github.com/username/project-b): A responsive e-commerce platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- TypeScript
+- Machine Learning
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
